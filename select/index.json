@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "自傷無色 / 25時、ナイトコードで。 × 初音ミク",
+  "base_artist": "プロジェクトセカイ カラフルステージ! feat. 初音ミク",
+  "createdAt": "2026-04-05T11:37:56.263071Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "自傷無色",
+      "artist": "ねこぼーろ",
+      "has_synced": true,
+      "path": "select/01_自傷無色_ねこぼーろ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "自傷無色",
+      "artist": "25時、ナイトコードで。 feat. 宵崎奏&朝比奈まふゆ&初音ミク",
+      "has_synced": false,
+      "path": "select/02_自傷無色_25時、ナイトコードで。_feat._宵崎奏&朝比奈まふゆ&初音ミク.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "自傷無色",
+      "artist": "ねこぼーろ",
+      "has_synced": true,
+      "path": "select/03_自傷無色_ねこぼーろ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "自傷無色",
+      "artist": "sasanomaly",
+      "has_synced": false,
+      "path": "select/04_自傷無色_sasanomaly.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "自傷無色",
+      "artist": "ササノマリイ",
+      "has_synced": false,
+      "path": "select/05_自傷無色_ササノマリイ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "自傷無色",
+      "artist": "ねこぼーろ feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/06_自傷無色_ねこぼーろ_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "自傷無色",
+      "artist": "ササノマリイ",
+      "has_synced": true,
+      "path": "select/07_自傷無色_ササノマリイ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "自傷無色",
+      "artist": "ササノマリイ feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/08_自傷無色_ササノマリイ_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "自傷無色",
+      "artist": "KK",
+      "has_synced": true,
+      "path": "select/09_自傷無色_KK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "自傷無色 feat.初音ミク",
+      "artist": "ねこぼーろ",
+      "has_synced": true,
+      "path": "select/10_自傷無色_feat.初音ミク_ねこぼーろ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "自傷無色 (feat. 宵崎奏&朝比奈まふゆ&初音ミク)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": false,
+      "path": "select/11_自傷無色_(feat._宵崎奏&朝比奈まふゆ&初音ミク)_25時、ナイトコードで。.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Self-Inflicted Achromatic english ver. 【Oktavia】自傷無色【英語で歌ってみた】",
+      "artist": "Oktavia",
+      "has_synced": true,
+      "path": "select/12_Self-Inflicted_Achromatic_english_ver._【Oktavia】自傷無色【英語で歌ってみた】_Oktavia.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "自傷無色 - Jisyoumushoku",
+      "artist": "KK",
+      "has_synced": true,
+      "path": "select/13_自傷無色_-_Jisyoumushoku_KK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "自傷無色 (feat. 宵崎奏&朝比奈まふゆ&初音ミク)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/14_自傷無色_(feat._宵崎奏&朝比奈まふゆ&初音ミク)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "自傷無色 (feat. 宵崎奏, 朝比奈まふゆ & 初音ミク)",
+      "artist": "ササノマリイ",
+      "has_synced": true,
+      "path": "select/15_自傷無色_(feat._宵崎奏,_朝比奈まふゆ_&_初音ミク)_ササノマリイ.lrc"
+    }
+  ]
+}
